@@ -1,0 +1,43 @@
+header { 
+    align-content: right;
+    background-color: #70a48b;
+    vertical-align: top
+    
+}
+nav {
+    float: right;
+    border-style: solid;
+}
+nav li {
+        display: inline-block;
+        font-size: 20px;
+}
+
+body { 
+
+}
+.info {
+    float: left;
+    width: 1/3;
+    margin-right: 0%;
+    
+}
+h2 {
+    border-style: solid;
+    border-radius: 5px;
+    background-color: #70a48b;
+}
+.pets{
+    float: right;
+    margin: 0%;
+    width: 2/3;
+    border-radius: 10px;
+    margin: auto;
+} 
+footer {
+    background-color: #70a48b;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 10 rem; 
+}
